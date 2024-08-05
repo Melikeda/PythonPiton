@@ -16,3 +16,4 @@ PyPI, Python Paket İndeksidir ve Python programlama dili için açık kaynaklı
 
 ![Barplot](https://github.com/user-attachments/assets/d5fe7e7f-8240-4ff9-85ac-aec6f816a241)
 
+![Graph](https://github.com/user-attachments/assets/7d0dd209-5ae9-4ae6-8d57-308b9a01bf59)
