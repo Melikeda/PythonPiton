@@ -9,3 +9,10 @@ Python, yüksek seviyeli, genel amaçlı bir programlama dilidir. Kod yazarken d
 ## Başlangıç
 Her şeyden önce Python kurulu olmalıdır. Daha sonra [PyPI](https://pypi.org/)'yi kullanarak Python kütüphanelerini ve paketlerini bulup indirebilirsiniz.
 PyPI, Python Paket İndeksidir ve Python programlama dili için açık kaynaklı yazılım paketlerinin merkezi bir deposudur.
+
+
+## Örnekler
+(![lmplot](https://github.com/user-attachments/assets/07fa034d-039c-4cec-bc54-038101fe2abe)
+
+![Barplot](https://github.com/user-attachments/assets/d5fe7e7f-8240-4ff9-85ac-aec6f816a241)
+
